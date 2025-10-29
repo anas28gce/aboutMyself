@@ -1,0 +1,10 @@
+Title:Mr
+Full Name:Anas Zakir
+USN:1gc24is002
+Semester:Third
+Section:c
+Branch:information science engineering
+Year of Admisson:2025
+College Name:Ghousia college of engineering
+
+
