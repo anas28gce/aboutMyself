@@ -1,18 +1,15 @@
- HEAD
- feature-branch
+
 Title:Mr
 Full Name:Anas Zakir
 USN:1gc24is002
 Semester:Third
 Section:c
-<<<<<<< HEAD
 Branch:Information science engineering
  Year of admisson:2024-25
 College name:ghousia college of engineering
 UG Degree: information science
 PG Degree: Master of science in information science
 PhD: Data Science
-=======
 Branch:information science engineering
 Year of Admisson:2025
 College Name:Ghousia college of engineering
@@ -20,4 +17,4 @@ UG Degree:information science
 PG Degree:Master of science in information science
 PhD:Data Science
 
->>>>>>> feature-branch
+
