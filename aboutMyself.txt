@@ -5,7 +5,7 @@ USN:1gc24is002
 Semester:Third
 Section:c
 Branch:Information science engineering
- Year of admisson:2024-25
+Year of admisson:2025-26
 College name:ghousia college of engineering
 UG Degree: information science
 PG Degree: Master of science in information science
