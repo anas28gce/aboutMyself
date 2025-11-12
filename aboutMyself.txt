@@ -12,9 +12,9 @@ PG Degree: Master of science in information science
 PhD: Data Science
 Branch:information science engineering
 Year of Admisson:2025
-College Name:Ghousia college of engineering
-UG Degree:information science
-PG Degree:Master of science in information science
-PhD:Data Science
+SSLC:st thomas high school
+PUC:Ghousia PU college 
+Degree:B.E 2nd year information science engineering
+
 
 
