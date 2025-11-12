@@ -6,8 +6,13 @@ Semester:Third
 Section:c
 Branch:Information science engineering
 Year of admisson:2025-26
-SSLC:st.thomas high school
-PUC:Ghousia college of engineering
-Degree:2nd year B.E information science
+SSLC:st thomas high school
+PUC:Ghousia PU college
+Degree:B.E 2nd year information science engineering
+
+
+
+
+
 
 
