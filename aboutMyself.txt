@@ -6,13 +6,15 @@ Semester:Third
 Section:c
 Branch:Information science engineering
 Year of admisson:2025-26
+College name:ghousia college of engineering
+UG Degree: information science
+PG Degree: Master of science in information science
+PhD: Data Science
+Branch:information science engineering
+Year of Admisson:2025
+SSLC:st thomas high school
+PUC:Ghousia PU college 
 SSLC:st thomas high school
 PUC:Ghousia PU college
 Degree:B.E 2nd year information science engineering
-
-
-
-
-
-
 
