@@ -1,4 +1,4 @@
- 
+
 Title:Mr
 Full Name:Anas Zakir
 USN:1gc24is002
@@ -14,7 +14,7 @@ Branch:information science engineering
 Year of Admisson:2025
 SSLC:st thomas high school
 PUC:Ghousia PU college 
+SSLC:st thomas high school
+PUC:Ghousia PU college
 Degree:B.E 2nd year information science engineering
-
-
 
